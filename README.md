@@ -1,3 +1,3 @@
-# Botball 2023
+# BotBall 2023
 
 The code for the 2023 season by Scots Robotics.
